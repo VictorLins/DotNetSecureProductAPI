@@ -19,6 +19,7 @@ The solution was structured as per below:
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [API Documentation](#APIDocumentation)
 - [Client Application](#clientApp)
 
 ## Getting Started
@@ -77,7 +78,7 @@ The API documentation can be accessed using Swagger (https://<LOCALHOST:PORT>/sw
 ![image](https://github.com/VictorLins/DotNetSecureProductAPI/assets/15841201/ffe9727f-fbfa-40fc-af82-1d44e4cd604e)
 
 ### Client Application
-The client application was developed to provide an easy and quick way to create users in Identity, fetch the JWT token and use it to test the API endpoints.
+The client application was developed to provide an easy and quick way to create users in Microsoft Identity, fetch the JWT token and use it to test the API endpoints.
 The client is a Windows Form application structured as per below:
 
 ![image](https://github.com/VictorLins/DotNetSecureProductAPI/assets/15841201/e77019f8-3957-40a4-88ed-baf0f4538e06)
